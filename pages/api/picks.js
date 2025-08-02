@@ -1,0 +1,1 @@
+// pages/api/picks.js placeholder content

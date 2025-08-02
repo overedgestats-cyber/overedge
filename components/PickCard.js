@@ -1,0 +1,1 @@
+// components/PickCard.js placeholder content

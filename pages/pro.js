@@ -1,0 +1,1 @@
+// pages/pro.js placeholder content
